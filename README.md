@@ -3,7 +3,9 @@
 	<span>Mobile version of Go Barber.</span>
 </div>
 
-<img align="center" src="https://ik.imagekit.io/giovaniif/Go_Barber_Mockup_White_t388dKqGk.png" />
+<p align="center">
+![](https://ik.imagekit.io/giovaniif/Go_Barber_Mockup_White_t388dKqGk.png)
+
 
 ## 🚀 Techs
 - ⚛ React Native
